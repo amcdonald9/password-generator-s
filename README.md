@@ -41,9 +41,10 @@ To use this project locally:
 
 No dependencies or backend required — 100% client-side.
 
-## 📸 Screenshot
+## Demo
 
-_Add a screenshot here if you want. Use this Markdown if you do:_
+https://amcdonald9.github.io/password-generator-s/
+
 
 
 ## 🧠 Lessons Learned
